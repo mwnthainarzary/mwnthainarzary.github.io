@@ -1,1 +1,1 @@
-This is the First github README created by me
+Hi there! Go to my [GitHub](https://github.com/mwnthainarzary)
